@@ -1,3 +1,1 @@
-# mailChimpOAuth
-# MailChimp Marketing API OAuth Integration Sample Project
-
+MailChimp Marketing API OAuth Integration Sample Project
