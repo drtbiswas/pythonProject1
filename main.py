@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#Sample code for MailChimp Marketing API OAuth Integration
 from urllib.parse import urlencode
 from operator import itemgetter
 
